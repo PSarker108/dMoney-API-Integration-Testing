@@ -150,6 +150,7 @@ The complete integration flow currently executes successfully with all test case
 
   21 passing
 ```
+![alt text](Assignment2.png)
 
 ## Testing Approach
 
