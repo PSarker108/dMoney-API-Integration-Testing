@@ -93,7 +93,7 @@ The test suite reads the API base URL from the environment configuration instead
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/PSarker108/dMoney-API-Integration-Testing >
 ```
 
 Navigate to the project directory:
@@ -102,11 +102,13 @@ Navigate to the project directory:
 cd dMoney-API-Integration-Testing
 ```
 
-Install dependencies:
+Install dependencies from `package.json`:
 
 ```bash
 npm install
 ```
+
+This installs the already defined packages such as `mocha`, `axios`, `chai`, and `dotenv`.
 
 Make sure the dMoney API is running locally before executing the tests.
 
