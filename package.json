@@ -1,0 +1,20 @@
+{
+  "name": "moca_axios_b19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha dmoney.spec.js --exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.19.0",
+    "chai": "^6.2.2",
+    "dotenv": "^16.3.1",
+    "moca": "^0.4.3",
+    "mocha": "^11.8.0"
+  }
+}
